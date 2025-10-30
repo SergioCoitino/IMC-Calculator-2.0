@@ -89,9 +89,13 @@ button:hover{
     body, input, button {
         font-size: 15px;
     }
-    .header{
-         top: 20px;       /* Distancia desde arriba */
-        right: 40px;      /* Distancia desde la derecha */
+    .header {
+      top: 20px;       /* Distancia desde arriba */
+      right: 20px;      /* Distancia desde la derecha */
+    }
+    
+    .main{
+      width: 300px;
     }
 }
 
