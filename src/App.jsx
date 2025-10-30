@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import Calculadora from './components/Calculadora';
 import Footer from './components/Footer';
 

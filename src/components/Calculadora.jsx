@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import FlagEs from '../img/es.png'
-import FlagEn from '../img/en.png'
-import FlagPt from '../img/pt.png'
+import FlagEs from '../assets/flags/es.png'
+import FlagEn from '../assets/flags/en.png'
+import FlagPt from '../assets/flags/pt.png'
 
 const idiomas = {
   es: {
